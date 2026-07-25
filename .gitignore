@@ -1,0 +1,14 @@
+# Compilados de Java
+out/
+bin/
+*.class
+
+# Dependencias locales (jars) por proyecto
+lib/*.jar
+
+# Claude Code (config local de la maquina, no se comparte)
+.claude/settings.local.json
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
