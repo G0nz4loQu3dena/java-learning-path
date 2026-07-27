@@ -12,7 +12,7 @@ public class App {
         canciones.add(new Cancion("Blinding Lights", "The Weeknd", "Pop", 200, 3_500_000_000L));
         canciones.add(new Cancion("Hotel California", "Eagles", "Rock", 391, 900_000_000L));
         canciones.add(new Cancion("Shape of You", "Ed Sheeran", "Pop", 233, 3_800_000_000L));
-        canciones.add(nComew Cancion("Smells Like Teen Spirit", "Nirvana", "Rock", 301, 1_000_000_000L));
+        canciones.add(new Cancion("Smells Like Teen Spirit", "Nirvana", "Rock", 301, 1_000_000_000L));
         canciones.add(new Cancion("Levitating", "Dua Lipa", "Pop", 203, 1_200_000_000L));
 
         System.out.println("Canciones de prueba:");
